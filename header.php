@@ -102,8 +102,3 @@ mysqli_free_result($r);
 
 	<div class="container">
 		<div class="starter-template">
-		</div>
-	</div>
-
-</body>
-</html>
